@@ -60,5 +60,5 @@ operacion = operacion
 ```
 
 ## Autor
-**Walter Morel Noguera** - [GitHub](https://github.com/walternoguera)
+**Walter Morel Noguera** - [GitHub](https://github.com/walternoguera) | [Mi sitio Web](https://www.walternoguera.com)
 
